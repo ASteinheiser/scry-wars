@@ -1,0 +1,17 @@
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/obj/Debug/Assembly-CSharp.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/UnityEngine.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/UnityEditor.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Andrew/Projects/scry-wars/Scry Wars/Temp/bin/Debug/Mono.Cecil.Mdb.dll
