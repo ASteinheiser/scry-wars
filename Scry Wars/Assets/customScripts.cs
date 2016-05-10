@@ -35,19 +35,23 @@ namespace CustomScripts{
 
 		public Card (string name) {
 			this.name = name;
-			startPosition = new Vector3 (15, 15, 0);
+			startPosition = new Vector3 (7, -3, 0);
 		}
 		public void CreateCard () {
 			cardObject = new GameObject (name);
 			cardObject.AddComponent<BoxCollider> ();
 			cardObject.AddComponent<SpriteRenderer>().sprite = (Sprite) Resources.Load <Sprite>(name);
 			cardObject.transform.position = startPosition;
+			cardObject.transform.localScale = new Vector3 (1, 1, 0);
+			cardObject.AddComponent<SpriteRenderer>().sprite = (Sprite) Resources.Load <Sprite>("orange");
+			cardObject.GetComponent<SpriteRenderer> ().sortingOrder = 1;
+
 		}
 	}
 
 	public class Player{
 		int health;
-		Deck deck;
+		public Deck deck;
 		int cardsInHand;
 		public Player () {
 			health = 500;
@@ -56,6 +60,15 @@ namespace CustomScripts{
 		public void CreateDeck () {
 			deck = new Deck ();
 			deck.CreateDeck ();
+		}
+		public Deck getDeck() {
+			return deck;
+		}
+		public int GetHealth() {
+			return health;
+		}
+		public int GetCardsInHand() {
+			return cardsInHand;
 		}
 	}
 }
